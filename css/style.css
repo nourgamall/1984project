@@ -1,0 +1,21 @@
+body {
+  background-image: url(../imgs/redbackground.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+}
+.navigationbar {
+  background-color: black;
+}
+h1 {
+  font-family: fantasy;
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  text-
+}
+.spin {
+width: 1000px;
+height: 1000px;
+position: sticky;
+left: 110px;
+}
